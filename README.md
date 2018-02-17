@@ -39,7 +39,7 @@ Description about the project
 
 ## **Database Structure**
 
- <img src="media/image1.PNG" width="624" height="287" />
+
 
 ## **Project Flow**
 
@@ -61,7 +61,7 @@ Description about the project
 
 2.  Query for all user data
 
-    <img src="media/image2.PNG" width="531" height="38" />
+
 
 3.  Query for researchslotid from searched user
 

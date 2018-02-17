@@ -38,8 +38,9 @@ Description about the project
 2.  Connected to mySql database.
 
 ## **Database Structure**
-
-
+<p align="center">
+  <img width="819" height="378" src="PsychologyResearchApp/Images/1.PNG">
+</p>
 
 ## **Project Flow**
 
@@ -51,6 +52,10 @@ Description about the project
 
 - Student
 
+<p align="center">
+  <img width="416" height="298" src="PsychologyResearchApp/Images/2.PNG">
+</p>
+
 ### **Administrator**
 
 1.  Functionalities
@@ -60,12 +65,13 @@ Description about the project
     2.  -View particular user
 
 2.  Query for all user data
-
-
-
+<p align="center">
+  <img width="532" height="39" src="PsychologyResearchApp/Images/3.PNG">
+</p>
 3.  Query for researchslotid from searched user
-
-<img src="media/image3.PNG" width="624" height="47" />
+<p align="center">
+  <img width="683" height="51" src="PsychologyResearchApp/Images/4.PNG">
+</p>
 
 ### Professor 
 
@@ -79,13 +85,12 @@ Functionality currently same as Administrator (Except for user viewing)
 
 ### Student
 
-1.  Query to view information about the research the student is
-    currently enrolled in.
+1.  Query to view information about the research the student is currently enrolled in.
+<p align="center">
+  <img width="683" height="51" src="PsychologyResearchApp/Images/4.PNG">
+</p>
 
-    <img src="media/image4.PNG" width="624" height="57" />
-
-2.  Query to decrement slot openings for the research that the student
-    just enrolled.
+2.  Query to decrement slot openings for the research that the student just enrolled.
 
  <img src="media/image5.PNG" width="624" height="33" />
 

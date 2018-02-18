@@ -87,16 +87,19 @@ Functionality currently same as Administrator (Except for user viewing)
 
 1.  Query to view information about the research the student is currently enrolled in.
 <p align="center">
-  <img width="683" height="51" src="PsychologyResearchApp/Images/4.PNG">
+  <img width="841" height="82" src="PsychologyResearchApp/Images/5.PNG">
 </p>
 
 2.  Query to decrement slot openings for the research that the student just enrolled.
 
- <img src="media/image5.PNG" width="624" height="33" />
+ <p align="center">
+  <img width="708" height="38" src="PsychologyResearchApp/Images/6.PNG">
+</p>
 
 3.  Query to make new student research record
-
-    <img src="media/image6.PNG" width="624" height="20" />
+<p align="center">
+  <img width="835" height="22" src="PsychologyResearchApp/Images/7.PNG">
+</p>
 
 ## **Usage**
 

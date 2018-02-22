@@ -5,7 +5,7 @@ the Psychology Major and Minor students at JSU.
 
 ## Introduction
 
-This project was done as part of our Database course. Project Idea was given from Jacksonville State University JSU professor, Dr. Shannon Robertson. As a group project, we were mainly focusing on how databasezs can be created using Mysql, and have proper and better relatiobship between databases and tables for teachers, students and administrators. We have created a webinterface for user interaction using java netbeans. It was a challenging task for us, considering the time frame and amount of work we had to put on it. However, we were able to finish it on time. At the moment, the webinterface is not alive, since it is still on developing mode. But anyone is welcome to clone or download it to thier localmachine and test/imrpove its working. 
+This project was done as part of our Database course. Project idea was given from Jacksonville State University (JSU) professor Dr. Shannon Robertson. As a group project, we were mainly focusing on how databases can be created using Mysql, and have proper and better relatiobship between databases and tables for teachers, students and administrators. We have created a webinterface for user interaction using java netbeans. It was a challenging task for us, considering the time frame and amount of work we had to put on it. However, we were able to finish it on time. At this time, the webinterface is not alive since it is still on developing mode. But anyone is welcome to clone or download it to thier localmachine and test/imrpove its working. 
 
 ## **Site**
 

@@ -129,7 +129,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Credits
 -   Dr.Shannon Robertson ( Assistant Professor, JSU Psycology Department)
--   Dr. Monica Trifa (Associate Professor of Computer Scinece, Jacksonville State University)
+-   Dr. Monica Trifas (Associate Professor of Computer Science, Jacksonville State University)
 -   Aaron Branham (Project Member)
 -   Joel Branham ( Project Member)
 

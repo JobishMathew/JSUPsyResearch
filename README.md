@@ -128,7 +128,7 @@ To fix a bug or enhance an existing module, follow these steps:
 -   Create a Pull Request
 
 ## Credits
--   Dr.Shannon Robertson ( Assistant Professor, JSU Psycology Department)
+-   Dr.Shannon Robertson ( Assistant Professor, Jacksonville State University Psycology Department)
 -   Dr. Monica Trifas (Associate Professor of Computer Science, Jacksonville State University)
 -   Aaron Branham (Project Member)
 -   Joel Branham ( Project Member)
